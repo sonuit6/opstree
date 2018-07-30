@@ -26,7 +26,7 @@ define('DB_NAME', 'rozgar_wp1');
 define('DB_USER', 'rozgar_wp1');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'B~(9BmS1ryI&eTq2I5@23@(6');
+define('DB_PASSWORD', 'B');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
