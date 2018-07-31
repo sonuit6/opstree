@@ -1,0 +1,1082 @@
+[09-May-2016 12:02:59 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 21
+[09-May-2016 12:02:59 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 21
+[09-May-2016 12:02:59 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 21
+[09-May-2016 12:02:59 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 156
+[09-May-2016 12:02:59 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 156
+[09-May-2016 12:02:59 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 156
+[09-May-2016 12:04:25 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 21
+[09-May-2016 12:04:25 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 21
+[09-May-2016 12:04:25 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 21
+[09-May-2016 12:04:25 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 132
+[09-May-2016 12:04:25 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 132
+[09-May-2016 12:04:25 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 132
+[09-May-2016 12:04:25 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 21
+[09-May-2016 12:04:25 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 21
+[09-May-2016 12:04:25 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 21
+[09-May-2016 12:04:25 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 132
+[09-May-2016 12:04:25 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 132
+[09-May-2016 12:04:25 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/verify.php on line 132
+[11-May-2016 18:04:46 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/hregister.php on line 21
+[16-May-2016 12:56:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/hregister.php on line 21
+[17-May-2016 13:59:01 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 14
+[17-May-2016 13:59:01 Asia/Kolkata] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 17
+[17-May-2016 13:59:01 Asia/Kolkata] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 17
+[17-May-2016 13:59:01 Asia/Kolkata] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 17
+[17-May-2016 13:59:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 23
+[17-May-2016 13:59:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 51
+[17-May-2016 13:59:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 80
+[17-May-2016 13:59:01 Asia/Kolkata] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 105
+[17-May-2016 13:59:01 Asia/Kolkata] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 105
+[17-May-2016 13:59:01 Asia/Kolkata] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 105
+[17-May-2016 13:59:04 Asia/Kolkata] PHP Notice:  Undefined index: url in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 20
+[17-May-2016 14:06:19 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 14
+[17-May-2016 14:06:19 Asia/Kolkata] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 17
+[17-May-2016 14:06:19 Asia/Kolkata] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 17
+[17-May-2016 14:06:19 Asia/Kolkata] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 17
+[17-May-2016 14:06:19 Asia/Kolkata] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 105
+[17-May-2016 14:06:19 Asia/Kolkata] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 105
+[17-May-2016 14:06:19 Asia/Kolkata] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 105
+[17-May-2016 14:07:29 Asia/Kolkata] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 105
+[17-May-2016 14:07:29 Asia/Kolkata] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 105
+[17-May-2016 14:07:29 Asia/Kolkata] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 105
+[17-May-2016 14:24:14 Asia/Kolkata] PHP Notice:  Undefined index: url in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 20
+[17-May-2016 15:54:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/account.php on line 23
+[17-May-2016 15:54:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/account.php on line 27
+[17-May-2016 15:54:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/account.php on line 10
+[17-May-2016 15:54:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/account.php on line 160
+[17-May-2016 15:54:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/account.php on line 208
+[17-May-2016 15:54:05 Asia/Kolkata] PHP Notice:  Undefined index: url in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 20
+[17-May-2016 15:54:22 Asia/Kolkata] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 105
+[17-May-2016 15:54:22 Asia/Kolkata] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 105
+[17-May-2016 15:54:22 Asia/Kolkata] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 105
+[17-May-2016 15:56:52 Asia/Kolkata] PHP Notice:  Undefined index: url in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 20
+[17-May-2016 15:59:16 Asia/Kolkata] PHP Notice:  Undefined index: url in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 20
+[18-May-2016 06:10:17 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[21-May-2016 12:43:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'url' (T_STRING) in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 89
+[21-May-2016 13:07:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 103
+[21-May-2016 13:08:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 103
+[21-May-2016 07:50:07 UTC] PHP Fatal error:  Call to a member function chk_login() on a non-object in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 19
+[21-May-2016 07:50:26 UTC] PHP Fatal error:  Call to a member function chk_login() on a non-object in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 19
+[21-May-2016 07:51:03 UTC] PHP Fatal error:  Call to a member function chk_login() on a non-object in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 19
+[21-May-2016 13:23:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'url' (T_STRING) in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 90
+[21-May-2016 07:59:37 UTC] PHP Fatal error:  Call to a member function chk_login() on a non-object in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 19
+[21-May-2016 13:34:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/hregister.php on line 21
+[23-May-2016 04:36:20 UTC] PHP Fatal error:  Call to a member function chk_login() on a non-object in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 19
+[23-May-2016 11:48:38 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 17
+[23-May-2016 11:50:42 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 17
+[23-May-2016 11:53:37 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 17
+[23-May-2016 16:05:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/hregister.php on line 21
+[06-Jun-2016 14:33:40 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/hregister.php on line 21
+[06-Jun-2016 14:33:40 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hregister.php on line 66
+[06-Jun-2016 10:34:19 UTC] PHP Fatal error:  Call to a member function chk_login() on a non-object in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 19
+[06-Jun-2016 16:37:10 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[07-Jun-2016 17:39:00 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 165
+[07-Jun-2016 17:39:00 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[09-Jun-2016 06:21:38 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 102
+[09-Jun-2016 06:21:44 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 102
+[09-Jun-2016 06:32:32 UTC] PHP Notice:  Undefined variable: updid in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 408
+[09-Jun-2016 06:32:58 UTC] PHP Notice:  Undefined variable: updid in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 408
+[09-Jun-2016 06:36:41 UTC] PHP Notice:  Undefined variable: updid in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 408
+[09-Jun-2016 12:18:40 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[09-Jun-2016 07:25:49 UTC] PHP Notice:  Undefined variable: email in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 151
+[09-Jun-2016 07:26:23 UTC] PHP Notice:  Undefined variable: email in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 151
+[09-Jun-2016 07:26:40 UTC] PHP Notice:  Undefined variable: email in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 151
+[09-Jun-2016 14:16:43 Asia/Kolkata] PHP Fatal error:  Call to undefined method hviewjobs::totaltender() in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 345
+[09-Jun-2016 14:16:55 Asia/Kolkata] PHP Fatal error:  Call to undefined method hviewjobs::totaltender() in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 345
+[09-Jun-2016 14:18:02 Asia/Kolkata] PHP Notice:  Undefined variable: wh in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 331
+[09-Jun-2016 14:24:15 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[09-Jun-2016 14:24:15 Asia/Kolkata] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 352
+[09-Jun-2016 14:42:35 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[09-Jun-2016 09:17:50 UTC] PHP Notice:  Undefined index: adminprice in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 359
+[09-Jun-2016 09:18:22 UTC] PHP Notice:  Undefined index: adminprice in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 359
+[09-Jun-2016 09:23:44 UTC] PHP Notice:  Undefined index: adminprice in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 359
+[09-Jun-2016 10:22:30 UTC] PHP Notice:  Array to string conversion in /home/rozgar/public_html/bookalorry/bal_test/classes/register.php on line 59
+[09-Jun-2016 10:24:44 UTC] PHP Notice:  Array to string conversion in /home/rozgar/public_html/bookalorry/bal_test/classes/register.php on line 59
+[09-Jun-2016 10:30:19 UTC] PHP Notice:  Undefined variable: fields in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 177
+[09-Jun-2016 10:30:19 UTC] PHP Notice:  Undefined variable: filedsvalue in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 178
+[09-Jun-2016 10:30:19 UTC] PHP Notice:  Undefined variable: field in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 200
+[09-Jun-2016 10:30:19 UTC] PHP Notice:  Undefined variable: filedvalue in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 201
+[09-Jun-2016 10:34:18 UTC] PHP Notice:  Undefined variable: fields in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 177
+[09-Jun-2016 10:34:18 UTC] PHP Notice:  Undefined variable: filedsvalue in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 178
+[09-Jun-2016 10:34:18 UTC] PHP Notice:  Undefined variable: field in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 200
+[09-Jun-2016 10:34:18 UTC] PHP Notice:  Undefined variable: filedvalue in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 201
+[09-Jun-2016 10:36:37 UTC] PHP Notice:  Undefined variable: fields in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 177
+[09-Jun-2016 10:36:37 UTC] PHP Notice:  Undefined variable: filedsvalue in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 178
+[09-Jun-2016 10:36:37 UTC] PHP Notice:  Undefined variable: field in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 200
+[09-Jun-2016 10:36:37 UTC] PHP Notice:  Undefined variable: filedvalue in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 201
+[09-Jun-2016 10:39:22 UTC] PHP Notice:  Undefined variable: fields in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 177
+[09-Jun-2016 10:39:22 UTC] PHP Notice:  Undefined variable: filedsvalue in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 178
+[09-Jun-2016 10:39:22 UTC] PHP Notice:  Undefined variable: field in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 200
+[09-Jun-2016 10:39:22 UTC] PHP Notice:  Undefined variable: filedvalue in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 201
+[09-Jun-2016 10:41:26 UTC] PHP Notice:  Undefined variable: field in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 202
+[09-Jun-2016 10:41:26 UTC] PHP Notice:  Undefined variable: filedvalue in /home/rozgar/public_html/bookalorry/bal_test/classes/common.php on line 203
+[09-Jun-2016 16:15:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[09-Jun-2016 16:15:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[09-Jun-2016 16:15:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[09-Jun-2016 16:50:47 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[09-Jun-2016 16:50:47 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[09-Jun-2016 16:50:47 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[09-Jun-2016 19:06:10 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 102
+[10-Jun-2016 00:38:27 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 10:20:41 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 10:20:41 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 10:20:41 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 11:03:53 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 11:03:53 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 11:03:53 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 12:09:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 12:09:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 12:09:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 12:11:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 12:11:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 12:11:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 12:19:32 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 12:19:32 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 12:19:32 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 12:46:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 12:46:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 12:46:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 13:33:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 13:33:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 13:33:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 13:38:07 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 13:38:07 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 13:38:07 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 15:28:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 15:28:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 15:28:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 15:37:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 15:37:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 15:37:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 16:48:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 16:48:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 16:48:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 18:22:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 18:22:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 18:22:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 18:23:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 18:23:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 18:23:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[10-Jun-2016 18:35:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[10-Jun-2016 18:42:06 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[10-Jun-2016 13:12:48 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 102
+[10-Jun-2016 18:43:11 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 18:43:38 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[10-Jun-2016 18:43:38 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 13:15:04 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 102
+[10-Jun-2016 18:45:10 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 18:45:21 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 18:45:21 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 18:46:41 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 18:46:41 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 18:49:51 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 18:49:51 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 18:51:50 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 18:51:50 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 18:52:16 Asia/Kolkata] PHP Notice:  Undefined variable: cc in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 191
+[10-Jun-2016 19:03:50 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[10-Jun-2016 19:03:50 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[10-Jun-2016 19:03:50 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[13-Jun-2016 09:44:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[13-Jun-2016 09:44:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[13-Jun-2016 09:44:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[13-Jun-2016 10:04:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[13-Jun-2016 10:04:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[13-Jun-2016 10:04:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 338
+[15-Jun-2016 13:47:37 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:47:37 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:47:37 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:47:41 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:47:41 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:47:41 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:47:46 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:47:46 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:47:46 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:47:59 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:47:59 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:47:59 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:04 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:04 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:04 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:06 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:06 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:06 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:07 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:07 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:07 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:09 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:09 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:09 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:12 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:12 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 13:48:12 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/rozgar/public_html/bookalorry/bal_test/index.php on line 16
+[15-Jun-2016 22:06:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[16-Jun-2016 10:16:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[16-Jun-2016 10:16:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[16-Jun-2016 10:16:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[16-Jun-2016 10:16:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[16-Jun-2016 10:16:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[16-Jun-2016 10:16:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[16-Jun-2016 04:51:52 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[16-Jun-2016 15:43:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[16-Jun-2016 15:43:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[16-Jun-2016 15:43:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[16-Jun-2016 11:19:35 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[16-Jun-2016 11:21:33 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 102
+[16-Jun-2016 17:16:53 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[16-Jun-2016 17:19:20 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[16-Jun-2016 17:19:20 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[16-Jun-2016 17:19:20 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[16-Jun-2016 17:32:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[16-Jun-2016 12:19:17 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[16-Jun-2016 17:53:14 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[16-Jun-2016 17:53:14 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[16-Jun-2016 17:53:14 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[16-Jun-2016 17:56:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[16-Jun-2016 17:56:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[16-Jun-2016 17:56:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[16-Jun-2016 18:28:53 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[16-Jun-2016 18:28:53 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[16-Jun-2016 18:28:53 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 10:14:05 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 10:14:05 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 10:14:05 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 10:21:45 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 10:21:45 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 10:21:45 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 10:29:45 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 10:29:45 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 10:29:45 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 10:35:32 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 10:35:32 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 10:35:32 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 10:51:08 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 10:51:08 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 10:51:08 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 11:00:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 11:00:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 11:00:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 11:00:56 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 11:00:56 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 11:00:56 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 11:11:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[17-Jun-2016 12:57:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 12:57:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 12:57:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 14:08:05 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 14:08:05 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 14:08:05 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 14:38:06 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 14:38:06 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 14:38:06 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 15:04:50 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 15:04:50 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 15:04:50 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 16:16:35 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 16:16:35 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 16:16:35 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[17-Jun-2016 17:39:45 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[17-Jun-2016 17:39:45 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[17-Jun-2016 17:39:45 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[18-Jun-2016 09:52:27 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[18-Jun-2016 09:52:27 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[18-Jun-2016 09:52:27 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[18-Jun-2016 09:53:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[18-Jun-2016 09:53:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[18-Jun-2016 09:53:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[18-Jun-2016 09:58:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[18-Jun-2016 09:58:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[18-Jun-2016 09:58:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[18-Jun-2016 10:15:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[18-Jun-2016 10:15:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[18-Jun-2016 10:15:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[18-Jun-2016 10:18:43 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[18-Jun-2016 10:18:43 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[18-Jun-2016 10:18:43 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[18-Jun-2016 10:37:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[18-Jun-2016 10:37:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[18-Jun-2016 10:37:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[18-Jun-2016 12:43:37 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 102
+[20-Jun-2016 09:51:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 09:51:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 09:51:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[20-Jun-2016 10:02:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 10:02:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 10:02:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[20-Jun-2016 10:05:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 10:05:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 10:05:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[20-Jun-2016 10:06:31 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 10:06:31 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 10:06:31 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[20-Jun-2016 10:26:37 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 10:26:37 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 10:26:37 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[20-Jun-2016 11:50:47 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 11:50:47 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 11:50:47 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[20-Jun-2016 12:32:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 12:32:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 12:32:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[20-Jun-2016 15:52:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 15:52:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 15:52:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[20-Jun-2016 16:25:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 16:25:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 16:25:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[20-Jun-2016 16:44:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 16:44:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 16:44:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[20-Jun-2016 16:46:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 16:46:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 16:46:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[20-Jun-2016 12:14:27 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 102
+[20-Jun-2016 12:20:04 UTC] PHP Notice:  Undefined index: email in /home/rozgar/public_html/bookalorry/bal_test/classes/tenders.php on line 436
+[20-Jun-2016 21:10:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 21:10:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 21:10:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[20-Jun-2016 21:10:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[20-Jun-2016 21:10:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[20-Jun-2016 21:10:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 10:50:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 10:50:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 10:50:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 11:17:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 11:17:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 11:17:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 13:12:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 13:12:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 13:12:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 13:56:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 13:56:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 13:56:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 15:26:26 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 15:26:26 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 15:26:26 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 16:38:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 16:38:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 16:38:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 17:34:15 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 17:34:15 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 17:34:15 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 17:37:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 17:37:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 17:37:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 17:38:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 17:38:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 17:38:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 17:39:54 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 17:39:54 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 17:39:54 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 17:44:19 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 17:44:19 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 17:44:19 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 18:03:28 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 18:03:28 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 18:03:28 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 18:56:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 18:56:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 18:56:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 21:34:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 21:34:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 21:34:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 21:36:19 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 21:36:19 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 21:36:19 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[21-Jun-2016 21:38:10 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[21-Jun-2016 21:38:10 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[21-Jun-2016 21:38:10 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[22-Jun-2016 10:31:32 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 10:31:32 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 10:31:32 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[22-Jun-2016 10:33:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 10:33:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 10:33:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[22-Jun-2016 10:34:26 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 10:34:26 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 10:34:26 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[22-Jun-2016 10:58:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 10:58:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 10:58:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[22-Jun-2016 11:03:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 11:03:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 11:03:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 354
+[22-Jun-2016 11:33:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 11:33:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 11:33:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 11:38:09 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 11:38:09 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 11:38:09 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 12:04:54 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 12:04:54 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 12:04:54 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 06:50:11 UTC] PHP Notice:  Undefined variable: linksArray in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 466
+[22-Jun-2016 12:38:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 12:38:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 12:38:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 12:41:23 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 12:41:23 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 12:41:23 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 13:20:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 13:20:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 13:20:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 08:50:11 UTC] PHP Warning:  implode(): Argument must be an array in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 523
+[22-Jun-2016 08:53:25 UTC] PHP Notice:  Array to string conversion in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 523
+[22-Jun-2016 08:53:25 UTC] PHP Warning:  implode(): Argument must be an array in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 523
+[22-Jun-2016 14:39:31 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 14:39:31 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 14:39:31 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 09:11:31 UTC] PHP Warning:  unlink(): http does not allow unlinking in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 525
+[22-Jun-2016 09:17:21 UTC] PHP Warning:  unlink(): http does not allow unlinking in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 525
+[22-Jun-2016 09:27:12 UTC] PHP Warning:  unlink(/home/rozgar/public_html/bookalorry/bal_testdocument_upload/35/10/1466587608_10.pdf): No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 527
+[22-Jun-2016 15:05:41 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 15:05:41 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 15:05:41 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 15:08:50 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 15:08:50 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 15:08:50 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 15:11:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[22-Jun-2016 09:42:25 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 102
+[22-Jun-2016 09:42:31 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 102
+[22-Jun-2016 15:17:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[22-Jun-2016 15:17:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 15:17:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 15:17:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 15:59:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[22-Jun-2016 15:59:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 15:59:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 15:59:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 16:27:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[22-Jun-2016 16:27:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 16:27:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 16:27:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 16:30:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[22-Jun-2016 16:30:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 16:30:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 16:30:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 16:35:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[22-Jun-2016 16:35:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 16:35:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 16:35:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 17:14:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[22-Jun-2016 17:14:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 17:14:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 17:14:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[22-Jun-2016 17:45:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[22-Jun-2016 17:45:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[22-Jun-2016 17:45:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[22-Jun-2016 17:45:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 08:11:22 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 08:11:22 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 08:11:22 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 08:11:22 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 08:21:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 08:21:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 08:21:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 08:21:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 08:23:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 08:23:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 08:23:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 08:23:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 08:37:08 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 08:37:08 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 08:37:08 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 08:37:08 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 09:59:56 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 09:59:56 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 09:59:56 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 09:59:56 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 10:45:41 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 10:45:41 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 10:45:41 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 10:45:41 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 10:49:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 10:49:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 10:49:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 10:49:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 12:10:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 12:10:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 12:10:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 12:10:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 12:13:20 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 12:13:20 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 12:13:20 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 12:13:20 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 12:19:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 12:19:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 12:19:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 12:19:03 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 12:51:18 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 12:51:18 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 12:51:18 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 12:51:18 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 13:24:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 13:24:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 13:24:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 13:24:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 14:01:35 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 14:01:35 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 14:01:35 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 14:01:35 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 14:01:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 14:01:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 14:01:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 14:01:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 14:02:52 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[23-Jun-2016 08:33:14 UTC] PHP Notice:  Undefined index: email in /home/rozgar/public_html/bookalorry/bal_test/classes/tenders.php on line 442
+[23-Jun-2016 08:33:19 UTC] PHP Notice:  Undefined index: email in /home/rozgar/public_html/bookalorry/bal_test/classes/tenders.php on line 442
+[23-Jun-2016 08:38:12 UTC] PHP Notice:  Undefined index: email in /home/rozgar/public_html/bookalorry/bal_test/classes/tenders.php on line 442
+[23-Jun-2016 14:18:05 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 14:18:05 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 14:18:05 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 14:18:05 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 14:19:00 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 14:19:00 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 14:19:00 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 14:19:00 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 14:19:38 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 14:19:38 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 14:19:38 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 14:19:38 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 14:33:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 14:33:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 14:33:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 14:33:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 14:59:20 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 14:59:20 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 14:59:20 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 14:59:20 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 15:25:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 15:25:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 15:25:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 15:25:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 15:32:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 15:32:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 15:32:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 15:32:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 10:34:41 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[23-Jun-2016 11:07:28 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[23-Jun-2016 16:42:58 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[23-Jun-2016 16:42:58 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 168
+[23-Jun-2016 16:42:58 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[23-Jun-2016 16:42:58 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 367
+[23-Jun-2016 11:43:03 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[23-Jun-2016 17:36:58 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[23-Jun-2016 12:41:34 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[23-Jun-2016 13:26:26 UTC] PHP Notice:  Undefined index: contact_person in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 130
+[24-Jun-2016 08:20:28 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[24-Jun-2016 08:20:28 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[24-Jun-2016 08:20:28 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[24-Jun-2016 08:20:28 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 438
+[24-Jun-2016 08:23:12 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[24-Jun-2016 08:23:12 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[24-Jun-2016 08:23:12 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[24-Jun-2016 08:23:12 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 438
+[24-Jun-2016 09:55:39 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[24-Jun-2016 09:55:39 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[24-Jun-2016 09:55:39 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[24-Jun-2016 09:55:39 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 438
+[24-Jun-2016 09:57:27 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[24-Jun-2016 09:57:27 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[24-Jun-2016 09:57:27 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[24-Jun-2016 09:57:27 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 438
+[24-Jun-2016 10:02:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[24-Jun-2016 10:02:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[24-Jun-2016 10:02:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[24-Jun-2016 10:02:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 438
+[24-Jun-2016 10:04:50 Asia/Kolkata] PHP Notice:  Undefined variable: s in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 270
+[24-Jun-2016 10:04:50 Asia/Kolkata] PHP Notice:  Undefined variable: s in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 290
+[24-Jun-2016 04:49:25 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[24-Jun-2016 10:41:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[24-Jun-2016 10:41:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[24-Jun-2016 10:41:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[24-Jun-2016 10:41:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 438
+[24-Jun-2016 05:15:17 UTC] PHP Notice:  Undefined variable: from in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 444
+[24-Jun-2016 05:15:17 UTC] PHP Notice:  Undefined variable: from in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 445
+[24-Jun-2016 05:26:57 UTC] PHP Warning:  filesize(): stat failed for /home/rozgar/public_html/bookalorry/bal_test/document_upload/35/10/1466746013_10.pdf
+ in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 447
+[24-Jun-2016 05:26:57 UTC] PHP Warning:  fopen(/home/rozgar/public_html/bookalorry/bal_test/document_upload/35/10/1466746013_10.pdf
+): failed to open stream: No such file or directory in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 448
+[24-Jun-2016 05:26:57 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 449
+[24-Jun-2016 05:26:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 450
+[24-Jun-2016 05:26:57 UTC] PHP Notice:  Undefined variable: from in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 456
+[24-Jun-2016 05:26:57 UTC] PHP Notice:  Undefined variable: from in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 457
+[24-Jun-2016 05:46:55 UTC] PHP Warning:  filesize(): stat failed for /home/rozgar/public_html/bookalorry/bal_test/document_upload/35/10/1466747204_10.pdf
+ in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 448
+[24-Jun-2016 05:53:10 UTC] PHP Warning:  filesize(): stat failed for http://rozgar.com/bookalorry/bal_test/document_upload/35/10/1466747578_10.pdf
+ in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 448
+[24-Jun-2016 11:24:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[24-Jun-2016 11:24:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[24-Jun-2016 11:24:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[24-Jun-2016 11:24:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 505
+[24-Jun-2016 06:26:55 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[24-Jun-2016 12:00:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[24-Jun-2016 12:00:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[24-Jun-2016 12:00:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[24-Jun-2016 12:00:21 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[24-Jun-2016 12:09:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[24-Jun-2016 12:09:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[24-Jun-2016 12:09:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[24-Jun-2016 12:09:02 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[24-Jun-2016 15:44:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[24-Jun-2016 15:44:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[24-Jun-2016 15:44:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[24-Jun-2016 15:44:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[24-Jun-2016 17:07:58 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[24-Jun-2016 17:07:58 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[24-Jun-2016 17:07:58 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[24-Jun-2016 17:07:58 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 10:03:42 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 10:03:42 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 10:03:42 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 10:03:42 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 10:04:42 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 10:04:42 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 10:04:42 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 10:04:42 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 10:24:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 10:24:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 10:24:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 10:24:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 10:42:10 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 10:42:10 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 10:42:10 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 10:42:10 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 11:16:46 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 11:16:46 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 11:16:46 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 11:16:46 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 13:53:47 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 13:53:47 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 13:53:47 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 13:53:47 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 13:54:46 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 13:54:46 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 13:54:46 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 13:54:46 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 14:06:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 14:06:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 14:06:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 14:06:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 16:21:59 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 16:21:59 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 16:21:59 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 16:21:59 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 17:10:28 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 17:10:28 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 17:10:28 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 17:10:28 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 17:17:40 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 17:17:40 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 17:17:40 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 17:17:40 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 17:58:19 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 17:58:19 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 17:58:19 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 17:58:19 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[27-Jun-2016 18:18:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[27-Jun-2016 18:18:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[27-Jun-2016 18:18:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[27-Jun-2016 18:18:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[05-Jul-2016 10:51:52 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[05-Jul-2016 10:52:22 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:31 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:32 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:32 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:32 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:32 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:35 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:36 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:36 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:36 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:37 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:37 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:37 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:37 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:42 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:52:42 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:53:35 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:53:35 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:53:36 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:53:36 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:53:36 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:53:37 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:55:47 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:55:48 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:55:49 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:55:49 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:55:49 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:55:49 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:55:56 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:55:57 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 10:55:57 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 11:04:29 UTC] PHP Notice:  Undefined variable: file in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 431
+[05-Jul-2016 11:06:03 UTC] PHP Notice:  Undefined variable: file in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 431
+[05-Jul-2016 11:08:04 UTC] PHP Fatal error:  Call to a member function chk_login() on a non-object in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 19
+[05-Jul-2016 16:53:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[05-Jul-2016 11:24:19 UTC] PHP Notice:  Undefined variable: qu in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 44
+[05-Jul-2016 17:24:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[05-Jul-2016 17:24:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[05-Jul-2016 17:24:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[05-Jul-2016 17:24:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[05-Jul-2016 11:55:20 UTC] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 629
+[05-Jul-2016 11:55:20 UTC] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 629
+[05-Jul-2016 11:55:20 UTC] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 629
+[05-Jul-2016 11:55:20 UTC] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 629
+[05-Jul-2016 11:55:20 UTC] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 629
+[05-Jul-2016 11:55:20 UTC] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 629
+[05-Jul-2016 11:55:20 UTC] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 629
+[05-Jul-2016 11:55:40 UTC] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/document_upload.php on line 16
+[05-Jul-2016 11:55:43 UTC] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 373
+[05-Jul-2016 11:55:43 UTC] PHP Notice:  Undefined variable: file in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 431
+[05-Jul-2016 17:25:52 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[05-Jul-2016 17:25:52 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[05-Jul-2016 17:25:52 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[05-Jul-2016 17:25:52 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[06-Jul-2016 04:48:09 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[06-Jul-2016 05:05:05 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 38
+[06-Jul-2016 05:12:49 UTC] PHP Notice:  Undefined index: mid in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 42
+[06-Jul-2016 05:19:21 UTC] PHP Notice:  Undefined variable: from_Admin in /home/rozgar/public_html/bookalorry/bal_test/classes/tenders.php on line 500
+[06-Jul-2016 05:19:21 UTC] PHP Notice:  Undefined variable: from_Admin in /home/rozgar/public_html/bookalorry/bal_test/classes/tenders.php on line 501
+[06-Jul-2016 11:03:46 Asia/Kolkata] PHP Fatal error:  Class 'tenders' not found in /home/rozgar/public_html/bookalorry/bal_test/function/load.php on line 38
+[06-Jul-2016 11:04:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[06-Jul-2016 11:04:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[06-Jul-2016 11:04:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[06-Jul-2016 11:04:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[06-Jul-2016 05:37:46 UTC] PHP Notice:  Undefined variable: file in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 431
+[06-Jul-2016 05:53:13 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[06-Jul-2016 05:59:44 UTC] PHP Notice:  Undefined variable: from_Admin in /home/rozgar/public_html/bookalorry/bal_test/classes/tenders.php on line 500
+[06-Jul-2016 05:59:44 UTC] PHP Notice:  Undefined variable: from_Admin in /home/rozgar/public_html/bookalorry/bal_test/classes/tenders.php on line 501
+[06-Jul-2016 06:12:47 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[06-Jul-2016 06:35:02 UTC] PHP Notice:  Undefined variable: file in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 431
+[06-Jul-2016 06:36:35 UTC] PHP Notice:  Undefined variable: file in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 431
+[06-Jul-2016 06:37:52 UTC] PHP Notice:  Undefined variable: file in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 431
+[06-Jul-2016 06:40:48 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[06-Jul-2016 08:38:54 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[06-Jul-2016 16:15:07 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[06-Jul-2016 16:16:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[06-Jul-2016 16:16:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[06-Jul-2016 16:16:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[06-Jul-2016 16:16:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[06-Jul-2016 16:37:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[06-Jul-2016 11:08:30 UTC] PHP Notice:  Undefined index: haulier_id in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 805
+[06-Jul-2016 15:40:42 UTC] PHP Fatal error:  Call to a member function chk_login() on a non-object in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 19
+[14-Jul-2016 14:20:59 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[14-Jul-2016 21:23:04 UTC] PHP Notice:  Undefined index: file in /home/rozgar/public_html/bookalorry/bal_test/document_upload.php on line 19
+[15-Jul-2016 10:03:14 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[15-Jul-2016 10:03:14 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[15-Jul-2016 10:03:14 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[15-Jul-2016 10:03:14 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[15-Jul-2016 04:34:56 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[15-Jul-2016 11:06:33 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[15-Jul-2016 16:37:18 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[15-Jul-2016 17:00:13 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[15-Jul-2016 17:00:24 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[15-Jul-2016 23:01:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[15-Jul-2016 23:01:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[15-Jul-2016 23:01:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[15-Jul-2016 23:01:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[30-Jul-2016 16:41:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 8
+[30-Jul-2016 16:41:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 238
+[30-Jul-2016 16:41:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 21
+[30-Jul-2016 16:41:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 511
+[30-Jul-2016 12:09:37 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[28-Aug-2016 16:25:39 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:25:45 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:25:51 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:25:57 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:26:01 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:26:06 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:26:11 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:26:15 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:26:20 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:26:25 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:26:30 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:26:36 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:26:43 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:26:48 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:26:52 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:26:57 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[28-Aug-2016 16:31:43 UTC] PHP Fatal error:  Call to a member function chk_login() on a non-object in /home/rozgar/public_html/bookalorry/bal_test/dashboard.php on line 19
+[28-Aug-2016 22:08:47 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[28-Aug-2016 22:08:47 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[28-Aug-2016 22:08:47 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[28-Aug-2016 22:12:40 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[28-Aug-2016 22:12:40 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[28-Aug-2016 22:12:40 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[28-Aug-2016 22:16:00 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[28-Aug-2016 22:16:00 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[28-Aug-2016 22:16:00 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[28-Aug-2016 22:16:26 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[28-Aug-2016 22:16:26 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[28-Aug-2016 22:16:26 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rozgar/public_html/bookalorry/bal_test/classes/database.php on line 82
+[12-Sep-2016 10:05:41 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[12-Sep-2016 10:12:55 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[12-Sep-2016 15:43:08 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[12-Sep-2016 15:48:38 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[20-Sep-2016 09:53:57 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[20-Sep-2016 09:54:10 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[20-Sep-2016 09:54:37 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[20-Sep-2016 10:23:36 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[20-Sep-2016 16:03:56 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[17-Oct-2016 10:43:36 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[25-Oct-2016 10:50:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 05:35:50 UTC] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 225
+[25-Oct-2016 05:35:50 UTC] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 240
+[25-Oct-2016 05:37:31 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[25-Oct-2016 05:41:06 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[25-Oct-2016 11:27:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 11:32:40 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 12:47:10 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 13:08:40 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 13:56:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 14:30:14 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 14:31:54 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 14:34:06 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 16:24:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 16:47:11 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 16:48:27 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 16:58:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 20:51:53 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[25-Oct-2016 21:30:59 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 10:31:39 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 10:38:41 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 12:12:10 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 17:52:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 17:55:32 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 17:56:44 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 18:04:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 18:16:35 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 18:18:20 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 18:31:25 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 18:47:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[26-Oct-2016 18:48:35 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 10:30:08 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 10:32:12 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 11:29:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 11:45:13 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 12:03:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 12:09:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 13:00:06 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 13:38:59 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 13:48:06 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 15:05:40 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 15:08:22 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 16:22:39 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 16:41:45 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 17:33:35 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 17:43:38 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[27-Oct-2016 18:07:06 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[28-Oct-2016 11:51:29 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[28-Oct-2016 13:00:33 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 11:01:24 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 11:05:09 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 11:24:59 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 11:46:33 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 12:12:42 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 12:55:37 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 12:58:05 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 13:11:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 14:40:04 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 14:40:59 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 15:01:36 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 15:03:19 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 15:17:22 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 16:06:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 17:45:53 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 17:48:01 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 18:33:15 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 18:43:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 19:08:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[03-Nov-2016 19:11:37 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[04-Nov-2016 10:42:48 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[04-Nov-2016 10:44:57 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[04-Nov-2016 10:47:55 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[04-Nov-2016 10:56:41 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[04-Nov-2016 13:28:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[04-Nov-2016 13:32:15 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[04-Nov-2016 15:46:00 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[04-Nov-2016 17:25:18 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[04-Nov-2016 17:49:07 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[04-Nov-2016 18:55:33 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[06-Nov-2016 18:44:16 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 5
+[06-Nov-2016 20:29:39 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[21-Jan-2017 11:34:30 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[24-Jan-2017 07:15:55 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[30-Jan-2017 09:00:05 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[30-Jan-2017 10:03:44 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[30-Jan-2017 11:00:46 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[03-Feb-2017 12:58:04 UTC] PHP Notice:  Undefined variable: true in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 107
+[03-Feb-2017 13:17:10 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[12-Feb-2017 05:51:09 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 76
+[13-Feb-2017 04:59:20 UTC] PHP Notice:  Undefined index: vehicles_type in /home/rozgar/public_html/bookalorry/bal_test/classes/account.php on line 19
+[13-Feb-2017 04:59:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rozgar/public_html/bookalorry/bal_test/classes/account.php on line 19
+[13-Feb-2017 05:01:53 UTC] PHP Notice:  Undefined index: vehicles_type in /home/rozgar/public_html/bookalorry/bal_test/classes/account.php on line 19
+[13-Feb-2017 05:01:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rozgar/public_html/bookalorry/bal_test/classes/account.php on line 19
+[13-Feb-2017 05:04:48 UTC] PHP Notice:  Undefined index: vehicles_type in /home/rozgar/public_html/bookalorry/bal_test/classes/account.php on line 19
+[13-Feb-2017 05:04:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rozgar/public_html/bookalorry/bal_test/classes/account.php on line 19
+[13-Feb-2017 05:05:48 UTC] PHP Notice:  Undefined index: vehicles_type in /home/rozgar/public_html/bookalorry/bal_test/classes/account.php on line 19
+[13-Feb-2017 05:05:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rozgar/public_html/bookalorry/bal_test/classes/account.php on line 19
+[13-Feb-2017 05:08:42 UTC] PHP Notice:  Undefined index: vehicles_type in /home/rozgar/public_html/bookalorry/bal_test/classes/account.php on line 19
+[13-Feb-2017 05:11:43 UTC] PHP Notice:  Undefined index: vehicles_type in /home/rozgar/public_html/bookalorry/bal_test/classes/account.php on line 19
+[13-Feb-2017 05:47:41 UTC] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 527
+[13-Feb-2017 06:11:44 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 147
+[13-Feb-2017 06:13:37 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/viewjobs.php on line 150
+[13-Feb-2017 06:16:29 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 505
+[13-Feb-2017 06:18:06 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 505
+[13-Feb-2017 06:23:37 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 505
+[13-Feb-2017 06:27:34 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 505
+[13-Feb-2017 06:27:56 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/bookalorry.php on line 505
+[13-Feb-2017 14:30:01 Asia/Kolkata] PHP Notice:  Undefined index: t_id in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 434
+[13-Feb-2017 09:21:33 UTC] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 640
+[13-Feb-2017 09:21:33 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 675
+[13-Feb-2017 09:21:33 UTC] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:33 UTC] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:33 UTC] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:33 UTC] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:33 UTC] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:33 UTC] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:33 UTC] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:40 UTC] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 640
+[13-Feb-2017 09:21:40 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 675
+[13-Feb-2017 09:21:40 UTC] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:40 UTC] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:40 UTC] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:40 UTC] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:40 UTC] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:40 UTC] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:40 UTC] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 640
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 675
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 640
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 675
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 640
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 675
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:44 UTC] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 640
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 675
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 640
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 675
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:21:45 UTC] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:26:07 UTC] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 640
+[13-Feb-2017 09:26:07 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 675
+[13-Feb-2017 09:26:07 UTC] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:26:07 UTC] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:26:07 UTC] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 676
+[13-Feb-2017 09:26:07 UTC] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:26:07 UTC] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:26:07 UTC] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:26:07 UTC] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:29:02 UTC] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 643
+[13-Feb-2017 09:29:02 UTC] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 678
+[13-Feb-2017 09:29:02 UTC] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 679
+[13-Feb-2017 09:29:02 UTC] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 679
+[13-Feb-2017 09:29:02 UTC] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 679
+[13-Feb-2017 09:29:02 UTC] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 681
+[13-Feb-2017 09:29:02 UTC] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 681
+[13-Feb-2017 09:29:02 UTC] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 681
+[13-Feb-2017 09:29:02 UTC] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 681
+[13-Feb-2017 09:30:07 UTC] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 703
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 720
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 736
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 738
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 739
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 740
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 743
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 744
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 745
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 720
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 736
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 738
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 739
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 740
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 743
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 744
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 745
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 720
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 736
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 738
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 739
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 740
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 743
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 744
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 745
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 720
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 736
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 738
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 739
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 740
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 743
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 744
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 745
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 720
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 736
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 738
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 739
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 740
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 743
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 744
+[13-Feb-2017 15:16:02 Asia/Kolkata] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/quotes.php on line 745
+[13-Feb-2017 15:44:42 Asia/Kolkata] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 209
+[13-Feb-2017 15:44:42 Asia/Kolkata] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 239
+[13-Feb-2017 15:44:42 Asia/Kolkata] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 241
+[13-Feb-2017 15:44:42 Asia/Kolkata] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 242
+[13-Feb-2017 15:44:42 Asia/Kolkata] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 243
+[13-Feb-2017 15:49:05 Asia/Kolkata] PHP Notice:  Undefined index: job_type in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 15
+[13-Feb-2017 15:49:05 Asia/Kolkata] PHP Notice:  Undefined variable: job_type_name in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 28
+[13-Feb-2017 15:49:05 Asia/Kolkata] PHP Notice:  Undefined index: s_address in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 31
+[13-Feb-2017 15:49:05 Asia/Kolkata] PHP Notice:  Undefined index: s_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 32
+[13-Feb-2017 15:49:05 Asia/Kolkata] PHP Notice:  Undefined index: s_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 33
+[13-Feb-2017 15:49:05 Asia/Kolkata] PHP Notice:  Undefined index: d_address in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 37
+[13-Feb-2017 15:49:05 Asia/Kolkata] PHP Notice:  Undefined index: d_town_city in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 38
+[13-Feb-2017 15:49:05 Asia/Kolkata] PHP Notice:  Undefined index: d_postcode in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 39
+[13-Feb-2017 15:49:05 Asia/Kolkata] PHP Notice:  Undefined variable: html in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 40
+[13-Feb-2017 16:27:34 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 4
+[13-Feb-2017 18:28:15 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 4
+[13-Feb-2017 18:28:15 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 220
+[13-Feb-2017 18:28:15 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 7
+[13-Feb-2017 18:28:15 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 442
+[26-Feb-2017 20:07:30 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 4
+[27-Feb-2017 01:45:49 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 4
+[27-Feb-2017 01:56:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/view-jobs.php on line 4
+[27-Feb-2017 01:56:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 220
+[27-Feb-2017 01:56:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 7
+[27-Feb-2017 01:56:51 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/classes/hviewjobs.php on line 442
+[28-Feb-2017 11:45:47 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 56
+[28-Feb-2017 12:58:18 UTC] PHP Notice:  Undefined variable: amount in /home/rozgar/public_html/bookalorry/bal_test/classes/tenders.php on line 394
+[01-Mar-2017 12:51:22 Asia/Kolkata] PHP Notice:  Undefined index: details in /home/rozgar/public_html/bookalorry/bal_test/quotes.php on line 4
+[01-Mar-2017 10:34:13 UTC] PHP Notice:  Undefined index: sessionid in /home/rozgar/public_html/bookalorry/bal_test/classes/login.php on line 56
