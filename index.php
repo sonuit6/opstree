@@ -14,7 +14,6 @@
 ob_clean();
 error_reporting(0);
 include("include/header.php");
-echo "Sonu";
 //$log->chk_login();
 $url='';
 switch ($_GET['url']) {
